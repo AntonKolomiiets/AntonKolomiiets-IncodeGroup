@@ -4,7 +4,7 @@ This is an Expo React-Native project. Test task for Incode Group. Created by [An
 
 ## Overview
 
-App created using MobX State Tree for state managment. App usess Expo File-based routing for navigation. I adition to tasked functionality app have a "winning screen" which informs user that all avaliable characters was guessed.
+App created using MobX State Tree for state managment. App usess Expo File-based routing for navigation. In adition to tasked functionality app have a "winning screen" which informs user that all avaliable characters was guessed.
 
 
 ## Get started
@@ -37,3 +37,17 @@ In the output, you'll find options to open the app in a
  <img alt="Screenshot 2024-08-24 at 09 04 59" src="https://github.com/user-attachments/assets/54bf8b78-a70d-4c9a-8d6e-37984f9ebf56" width="150">
  <img alt="Screenshot 2024-08-24 at 09 05 17" src="https://github.com/user-attachments/assets/310121cb-f9ec-467d-ba1f-fa9421ae73df" width="150">
 </p>
+
+## ESlint
+
+ESlint installed and configured. You can run ESlint with
+
+```bash
+npx expo lint
+```
+
+or 
+
+```bash
+npm run lint 
+```
