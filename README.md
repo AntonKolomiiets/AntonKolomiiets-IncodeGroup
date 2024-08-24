@@ -1,10 +1,10 @@
 # Hogwarts Sorting Magic Hat Mobile Application 
 
-This is an Expo React-Native project. Test task for Incode Group. Created by [Anton Kolomiiets](https://www.linkedin.com/in/anton-kolomiiets-740322120/)
+This is an Expo React Native project, created as a test task for Incode Group by [Anton Kolomiiets](https://www.linkedin.com/in/anton-kolomiiets-740322120/)
 
 ## Overview
 
-App created using MobX State Tree for state managment. App usess Expo File-based routing for navigation. In adition to tasked functionality app have a "winning screen" which informs user that all avaliable characters was guessed.
+This app is created using MobX State Tree for state management and utilizes Expo File-based routing for navigation. In addition to the required functionality, the app includes a 'winning screen' that informs the user when all available characters have been guessed.
 
 
 ## Get started
@@ -27,6 +27,9 @@ App created using MobX State Tree for state managment. App usess Expo File-based
    ```bash
     npx expo start
    ```
+4. Start the app
+
+   Press 'i' or 'a' to run the app on the iOS or Android simulator.
 
 In the output, you'll find options to open the app in a
 
