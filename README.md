@@ -9,13 +9,20 @@ App created using MobX State Tree for state managment. App usess Expo File-based
 
 ## Get started
 
-1. Install dependencies
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/AntonKolomiiets/AntonKolomiiets-IncodeGroup.git
+   cd AntonKolomiiets-IncodeGroup
+   ```
+
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx expo start
