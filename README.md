@@ -1,6 +1,6 @@
 # Hogwarts Sorting Magic Hat Mobile Application 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an Expo React-Native project. Test task for Incode Group. Created by Anton_Kolomiiets[https://www.linkedin.com/in/anton-kolomiiets-740322120/]
 
 ## Overview
 
