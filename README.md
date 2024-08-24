@@ -31,9 +31,9 @@ In the output, you'll find options to open the app in a
 ## Screenshots
 
 <p align="center">
- <img  alt="Screenshot 2024-08-24 at 09 03 51" src="https://github.com/user-attachments/assets/49675d7d-748a-4992-8e51-ab49a26ce7b4" width="200">
- <img alt="Screenshot 2024-08-24 at 09 04 27" src="https://github.com/user-attachments/assets/0e98bb8c-49bd-40c0-a6a0-783e6683cc1a" width="200">
- <img  alt="Screenshot 2024-08-24 at 09 04 42" src="https://github.com/user-attachments/assets/5d2fff6e-9d32-415f-a368-dcac0f855e82" width="200">
- <img alt="Screenshot 2024-08-24 at 09 04 59" src="https://github.com/user-attachments/assets/54bf8b78-a70d-4c9a-8d6e-37984f9ebf56" width="200">
- <img alt="Screenshot 2024-08-24 at 09 05 17" src="https://github.com/user-attachments/assets/310121cb-f9ec-467d-ba1f-fa9421ae73df" width="200">
+ <img  alt="Screenshot 2024-08-24 at 09 03 51" src="https://github.com/user-attachments/assets/49675d7d-748a-4992-8e51-ab49a26ce7b4" width="150">
+ <img alt="Screenshot 2024-08-24 at 09 04 27" src="https://github.com/user-attachments/assets/0e98bb8c-49bd-40c0-a6a0-783e6683cc1a" width="150">
+ <img  alt="Screenshot 2024-08-24 at 09 04 42" src="https://github.com/user-attachments/assets/5d2fff6e-9d32-415f-a368-dcac0f855e82" width="150">
+ <img alt="Screenshot 2024-08-24 at 09 04 59" src="https://github.com/user-attachments/assets/54bf8b78-a70d-4c9a-8d6e-37984f9ebf56" width="150">
+ <img alt="Screenshot 2024-08-24 at 09 05 17" src="https://github.com/user-attachments/assets/310121cb-f9ec-467d-ba1f-fa9421ae73df" width="150">
 </p>
