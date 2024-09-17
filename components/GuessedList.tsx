@@ -1,4 +1,10 @@
-import { FlatList, Image, View, Dimensions, StyleSheet } from "react-native";
+import {
+  FlatList,
+  View,
+  Dimensions,
+  StyleSheet,
+  ImageBackground,
+} from "react-native";
 import images from "@/assets/images/image";
 import GuessedListItem from "./GuessedListItem";
 
@@ -8,14 +14,15 @@ const screenHeight = Dimensions.get("window").height;
 const GuessedList = ({ filteredData }: any) => {
   return (
     <View style={styles.container}>
-      <Image source={images.listBg} style={styles.imageBG} />
-      <FlatList
-        style={styles.flatlist}
-        data={filteredData}
-        keyExtractor={(item) => item.id}
-        showsVerticalScrollIndicator={false}
-        renderItem={({ item }) => <GuessedListItem item={item} />}
-      />
+      <ImageBackground source={images.listBg} style={styles.imageBG}>
+        <FlatList
+          style={styles.flatlist}
+          data={filteredData}
+          keyExtractor={(item) => item.id}
+          showsVerticalScrollIndicator={false}
+          renderItem={({ item }) => <GuessedListItem item={item} />}
+        />
+      </ImageBackground>
     </View>
   );
 };
@@ -25,15 +32,13 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   flatlist: {
-    maxHeight: screenWidth / 1.1,
-    position: "absolute",
-    top: screenWidth / 40,
+    flex: 1,
   },
   imageBG: {
-    height: screenHeight / 1.7,
+    paddingVertical: 52,
+    height: screenHeight / 1.65,
     width: screenWidth / 1.1,
-    position: "relative",
-    top: screenWidth / -7,
+    top: screenWidth / -8,
   },
 });
 
