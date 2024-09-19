@@ -26,6 +26,7 @@
     "expo-status-bar": "~1.12.1",
     "expo-system-ui": "~3.0.7",
     "expo-web-browser": "~13.0.3",
+    "mobx": "^6.13.2",
     "mobx-react-lite": "^4.0.7",
     "mobx-state-tree": "^6.0.1",
     "react": "18.2.0",
